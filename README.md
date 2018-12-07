@@ -1,4 +1,4 @@
-# EmotionsASSignals
+# Emotions_As_Signals
 
 ### How To Download
 1. Download  appropriate zip file
