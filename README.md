@@ -26,3 +26,5 @@ charge state determines the mixing ratio for the heartbeat and stock data and au
 4. Adjust resistor slider (lower right) to change the charge rate of the emotional capacitor. A
 higher resistor value will result in slower charge rate and reduced peak voltage achieved
 for the given impulse
+
+5. Read through my PDF to understand motivation for this project
